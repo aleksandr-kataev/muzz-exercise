@@ -1,0 +1,14 @@
+# express app
+node_modules
+package-lock.json
+.env
+dist
+
+# react app
+ui/node_modules
+ui/package-lock.json
+ui/.pnp
+ui/.pnp.js
+ui/coverage
+ui/build
+ui/npm-debug.log*
